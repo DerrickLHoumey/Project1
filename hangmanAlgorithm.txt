@@ -1,0 +1,13 @@
+Objective: The objective of this program is to make a hangmam game.
+
+
+Algorithm:
+    1)Define a function that selects a random word from a text dictionary/list
+    2)Define function that takes input from the user for each letter guessed
+    3)Define a function that will take the letter guessed correclty and turn it into a string
+    4)Create Variables to stored data that the user enters
+        a)Created a varuable that stores the word that the computer picks
+        b)Create 2 variables, one that hold the correct letters guessed and that one holds the incorrect
+    5)Display an introduction to the program so the users will know whta to do
+    6)Create a loop that will allow the user to keep guessing until they win, or run out of tries
+    7)Add statement at the beginning and the end of the game to welcome users and thank them for playing
